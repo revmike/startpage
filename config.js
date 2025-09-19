@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Mike',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -28,12 +28,12 @@ const CONFIG = {
 	// Weather
 	weatherKey: '1a574cba6c46aef984b2efbe3061b147', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
+	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '35.566',
+	defaultLongitude: '-77.372',
 
 	// Autochange
 	autoChangeTheme: true,
